@@ -10,7 +10,7 @@ namespace UtmBuilder.Core
 {
     public class Utm
     {
-
+ 
         public Utm(Url url, Campaign campaign)
         {
             Url = url;
